@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from environment import BaseEnvironment
+from CliffWalkRepository2.environment import BaseEnvironment
 
 import numpy as np
 from copy import deepcopy
